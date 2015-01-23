@@ -1,2 +1,6 @@
 # go-lang
-Messing around with Go.
+=============================
+
+Just messing around with Go. Pretty cool language.
+
+
